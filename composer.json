@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/tajweed-php-makharij-phonetic-map",
+  "description": "17 Articulation Points (Makharij) & Sifat Feature Matrix (خريطة مخارج الحروف السبعة عشر وصفاتها الصوتية)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
